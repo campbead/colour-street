@@ -4,6 +4,9 @@ I'm trying to explore what the [osmx package](https://osmnx.readthedocs.io/en/st
 
 
 links:
+
 [open street map relations](https://wiki.openstreetmap.org/wiki/Relation)
+
 [how to relations](https://peteris.rocks/blog/openstreetmap-administrative-boundaries-in-geojson/)
+
 [dunedin](https://www.openstreetmap.org/relation/4426790)
